@@ -5,8 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/online-poultry
-/",
+    "build": "vite build --base=/online-poultry/",
     "preview": "vite preview"
   },
   "devDependencies": {
